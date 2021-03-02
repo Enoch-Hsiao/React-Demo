@@ -4,15 +4,15 @@
 - Reuse of code through "Button" components
 
 ## Helpful Links
--[Rendering on the Web - Google article](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
--[CSR vs SSR](https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/)
--[SEO in CSR vs SSR (Would recommend to take CS446 in UMass for more info)](https://medium.com/commutatus/seo-in-single-page-applications-csr-vs-ssr-e342d7cc69b)
--[React Website](https://reactjs.org/)
--[Why use React](https://www.simform.com/why-use-react/)
--[7 reasons to use React](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247)
--[DOM Manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
--[Short video on how the Virtual DOM works](https://www.youtube.com/watch?v=BYbgopx44vo)
--[DOM internals](https://reactjs.org/docs/faq-internals.html)
+- [Rendering on the Web - Google article](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
+- [CSR vs SSR](https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/)
+- [SEO in CSR vs SSR (Would recommend to take CS446 in UMass for more info)](https://medium.com/commutatus/seo-in-single-page-applications-csr-vs-ssr-e342d7cc69b)
+- [React Website](https://reactjs.org/)
+- [Why use React](https://www.simform.com/why-use-react/)
+- [7 reasons to use React](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247)
+- [DOM Manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+- [Short video on how the Virtual DOM works](https://www.youtube.com/watch?v=BYbgopx44vo)
+- [DOM internals](https://reactjs.org/docs/faq-internals.html)
 
 # Getting Started with Create React App
 
