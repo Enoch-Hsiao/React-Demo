@@ -12,7 +12,7 @@
 - [7 reasons to use React](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247)
 - [DOM Manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 - [Short video on how the Virtual DOM works](https://www.youtube.com/watch?v=BYbgopx44vo)
-- [DOM internals](https://reactjs.org/docs/faq-internals.html)
+- [Virtual DOM internals](https://reactjs.org/docs/faq-internals.html)
 
 # Getting Started with Create React App
 
